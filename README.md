@@ -19,7 +19,7 @@ Este projeto foi feito com base na orientação do curso java backend da platafo
 | mudarCanal(<param>) | mudar canal de acordo com o que o usuário desejar, ou incremento automático |
 | aumentarVolume | Aumenta o volume da TV|
 | diminuirVolume | diminui o volume da TV|
-| aligarControle | ativa o controle para acessar as funções|
+| ligarControle | ativa o controle para acessar as funções|
 | desligarControle | desliga o controle, as funções ficam desativadas |
 
 <h3> atributos  <h3>
